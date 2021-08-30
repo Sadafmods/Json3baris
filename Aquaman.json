@@ -11,7 +11,7 @@
       "admob_nativeid":"ca-app-pub-9140576983236757/5537592782",
       "admob_interid":"ca-app-pub-9140576983236757/9603748737",
       "admob_bannerid":"ca-app-pub-9140576983236757/4411131805",
-      "interval_intertitial":5,
+      "interval_intertitial":7,
       "fan_inter":"YOUR_PLACEMENT_ID",
       "fan_banner":"YOUR_PLACEMENT_ID",
       "fan_native":"YOUR_PLACEMENT_ID",
