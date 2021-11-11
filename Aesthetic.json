@@ -35,10 +35,6 @@
   ],
   "Skin":
   [
-    
-  ],
-  "Addons":
-  [
     {
       "id":1,
       "name_skin":"Aesthetic glasses",
@@ -338,7 +334,11 @@
       "name_skin":"aesthetic swimming",
       "skin_url":"https://lh3.googleusercontent.com/oP2QQG4YwH-THoQw6_NsHV3XgPp-MPxm9gUQffZBxgq6RXpkktEL0wjcnWDRhIq-Zya0OxO7VbIPxDhJ-Twoiw_CQHnwYFQDnjA",
       "view_skin":"https://lh3.googleusercontent.com/FJTmW4j9AG5VfWuREtzFGFbPg4VrkR5tBOxROb9d2d4qiq-OzJGhrUukOeUe3em-SmrKl84LMnySi04Hmw1zuYKXQX2d7-rVng"
-    }
+    }    
+  ],
+  "Addons":
+  [
+
   ],
   "Maps":
   [
